@@ -31,10 +31,12 @@
         </div>
         <div class="submit-row">
             <button class="submit-btn submit-login-btn" type="submit">LOGIN</button>
-            <button class="submit-btn cancel-login-modal-btn" type="submit">CANCEL</button>
+
         </div>
     </form>
+    <button class="submit-btn cancel-login-modal-btn">CANCEL</button>
 </div>
+
 <div id="register-div" class="register-form">
     <form action="/register" method="post">
         <div class="form-row">
@@ -55,7 +57,8 @@
         </div>
         <div class="submit-row">
             <button class="submit-btn submit-register-btn" type="submit">REGISTER</button>
-            <button class="submit-btn cancel-register-modal-btn" type="submit">CANCEL</button>
+
         </div>
     </form>
+    <button class="submit-btn cancel-register-modal-btn">CANCEL</button>
 </div>
